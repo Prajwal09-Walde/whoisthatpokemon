@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card_img--incorrect {
+  filter: brightness(0);
+  scale: 1.5;
+}
+
+.card_img--correct {
+  scale: 1.5;
+}
