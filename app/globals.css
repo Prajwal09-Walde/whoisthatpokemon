@@ -16,12 +16,20 @@
     font-size: 15px;
   }
 
+  h2 {
+    font-size: 15px;
+  }
+
   form {
-    margin: 50px;
+    margin-top: 20px;
   }
 
   input {
-    width: 200%;
+    font-size: 14px;
+  }
+
+  input::placeholder {
+    font-size: 14px;
   }
 
   button {
