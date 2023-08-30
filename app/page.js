@@ -87,6 +87,7 @@ export default function Home() {
       <h1 className='text-4xl font-bold'>Who's that Pokémon?</h1>
       <h2 className='text-3xl font-bold'>Score: {score}</h2>
       <PokemonCard pokemon={currPokemon} isCorrect={isCorrect}/>
+      
       <form 
         className='w-full max-w-sm'
         onSubmit={handleSubmit}

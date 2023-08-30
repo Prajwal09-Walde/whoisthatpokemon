@@ -10,3 +10,15 @@
 .card_img--correct {
   scale: 1.5;
 }
+
+@media only screen and (max-width: 600px) {
+  input {
+    width: 100px;
+    flex-direction: row;
+  }
+
+  button {
+    padding: 10px 5px;
+  }
+
+}
