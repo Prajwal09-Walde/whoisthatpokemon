@@ -10,3 +10,24 @@
 .card_img--correct {
   scale: 1.5;
 }
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  form {
+    margin: 10px;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  button {
+    display: block;
+    width: 20%;
+    padding: 10px 5px;
+  }
+  
+}
