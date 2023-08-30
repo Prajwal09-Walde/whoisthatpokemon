@@ -11,7 +11,7 @@
   scale: 1.5;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 970px) {
   h1 {
     font-size: 15px;
   }
