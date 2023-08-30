@@ -10,16 +10,3 @@
 .card_img--correct {
   scale: 1.5;
 }
-
-@media only screen and (max-width: 600px) {
-  input {
-    width: 100px;
-    flex: content;
-  }
-
-  button {
-    padding: 10px 5px;
-    flex-wrap: wrap;
-  }
-
-}
